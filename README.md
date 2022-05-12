@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📖 I'm currently learning front-end engineering
+- ⚽ About me: Sports and video games lover 🎮
+- 📫 Contacts: <a href=https://www.linkedin.com/in/matheus-marinho-a45307230/> <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="padding:10px;"> | 📧 matheusmarinho57@gmail.com
 <!--
 **MatheusMarinho57/MatheusMarinho57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
