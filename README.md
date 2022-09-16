@@ -2,7 +2,7 @@
 
 - 📖 I'm currently learning web development
 - ⚽ About me: Sports and video games lover 🎮
-- 📫 Contacts: <a href=https://www.linkedin.com/in/matheus-marinho-a45307230> <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width=100%;"></a> | matheusmarinho57@gmail.com
+- 📫 Contacts: <a href=https://www.linkedin.com/in/matheus-marinho-a45307230> <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width=100%;"></a> | <a href=mailto:matheusmarinho57@gmail.com> <img width="22px" alt="Email" src="https://img.icons8.com/fluency/48/000000/new-post.png"/> </a>
 <!--
 **MatheusMarinho57/MatheusMarinho57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
